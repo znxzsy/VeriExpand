@@ -1,0 +1,16 @@
+# Default deny: only the reviewed public companion is allowed.
+/*
+!/README.md
+!/SECURITY.md
+!/PUBLIC_FILES.txt
+!/.gitignore
+!/docs/
+/docs/*
+!/docs/research_scope.md
+!/examples/
+/examples/*
+!/examples/__init__.py
+!/examples/decision_summary.py
+!/tests/
+/tests/*
+!/tests/test_summary.py
